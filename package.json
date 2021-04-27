@@ -1,0 +1,26 @@
+{
+  "name": "glazed",
+  "version": "1.0.0",
+  "description": "interview_exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaolucianno/glazed.git"
+  },
+  "author": "João Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaolucianno/glazed/issues"
+  },
+  "homepage": "https://github.com/joaolucianno/glazed#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "express-validator": "^3.2.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
